@@ -13,7 +13,7 @@ This project analyzes how race and poverty affect federal education funding acro
 
 ### Access Code and Analysis
 
-View the code for this analysis: [Public School Fiscal Code](Public School Fiscal Code (3).md)  
+View the code for this analysis: [Public School Fiscal Code](https://github.com/remideso/remideso.github.io/blob/e10bfb9d315aac5c7b14571ed144f4f15064af86/Public%20School%20Fiscal%20Code%20(3).md)  
 
 Executive Summary: [Executive Summary](Executive_Summary.html)  
 
