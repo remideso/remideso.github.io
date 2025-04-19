@@ -3,7 +3,7 @@
 Link to my Digital Resume: [2025 Resume](2025_Digital_Resume.html)
 
 
-# Resarch Projects
+# Research Projects
 
 ## Federal Education Funding & Racial Disparities in Public Schools
 
