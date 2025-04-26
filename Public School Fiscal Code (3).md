@@ -61,7 +61,7 @@ warnings.filterwarnings('ignore')
 
 
 ```python
-file_path = "/Users/remi/Documents/Masters Fall 2024/Masters Spring 2025/Public School Charachtertics/merg_data.csv"
+file_path = "/Users/remi/Documents/Masters Fall 2024/Masters Spring 2025/Public Schooli Charachtertics/merg_data.csv"
 
 df = pd.read_csv(file_path)  # Load CSV
 ```
@@ -9225,7 +9225,7 @@ plt.show()
 ```
 
 
-    
+![Box Plot of Fiscal Data](1 output.png) 
 ![png](Public%20School%20Fiscal%20Code_files/Public%20School%20Fiscal%20Code_50_0.png)
     
 
