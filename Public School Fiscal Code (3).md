@@ -1,14 +1,14 @@
 # Datasets Overview
 
 ## Public School Charachterstics Dataset:
-The Public School Characteristics 2020-2021 dataset is provided by the National Center for Education Statistics. This dataset provides information on schools across the U.S and icnludes data on school identifiers, location details, enrollment information, grade leves, Title 1 funding status, and school types such as charter or magnent schools. This dataset also includes information surrounding student demopgraphics, and classifes schools based on their geographic location such as urban, suburban, town, or rual.
+The Public School Characteristics 2020-2021 dataset is provided by the National Center for Education Statistics. This dataset provides information on schools across the U.S. and includes data on school identifiers, location details, enrollment information, grade levels, Title 1 funding status, and school types such as charter or magnet schools. This dataset also includes information surrounding student demographics and classifies schools based on their geographic location such as urban, suburban, town, or rural.
 
 
 #### Link to Dataset:https://catalog.data.gov/dataset/public-school-characteristics-2020-21-6120a
 
 ## School Neighborhood Poverty Estimates, 2020-21 Dataset:
 
-The 2020-2021 School Neighborhood Poverty Estimates are based on school locations from the 2020-2021 Common Core of Data (CCD) school file and income data from families with children ages 5 to 17 in the U.S. Census Bureau’s 2017-2021 American Community Survey (ACS) 5-year collection. The ACS is a continuous household survey that collects social, demographic, economic, and housing information from the population in the United States each month. The Census Bureau calculates the income-to-poverty ratio (IPR) based on money income reported for families relative to the poverty thresholds, which are determined based on the family size and structure. Noncash benefits (such as food stamps and housing subsidies) are excluded, as are capital gains and losses. The IPR is the percentage of family income that is above or below the federal poverty level. The IPR indicator ranges from 0 to a top-coded value of 999. A family with income at the poverty threshold has an IPR value of 100. The estimates in this file reflect the IPR for the neighborhoods around schools which may be different from the neighborhood conditions of students enrolled in schools.All information contained in this file is in the public domain. Data users are advised to review NCES program documentation and feature class metadata to understand the limitations and appropriate use of these data.
+The 2020-2021 School Neighborhood Poverty Estimates are based on school locations from the 2020-2021 Common Core of Data (CCD) school file and income data from families with children ages 5 to 17 in the U.S. Census Bureau’s 2017-2021 American Community Survey (ACS) 5-year collection. The ACS is a continuous household survey that collects social, demographic, economic, and housing information from the population in the United States each month. The Census Bureau calculates the income-to-poverty ratio (IPR) based on money income reported for families relative to the poverty thresholds, which are determined based on family size and structure. Noncash benefits (such as food stamps and housing subsidies) are excluded, as are capital gains and losses. The IPR is the percentage of family income that is above or below the federal poverty level. The IPR indicator ranges from 0 to a top-coded value of 999. A family with an income at the poverty threshold has an IPR value of 100. The estimates in this file reflect the IPR for the neighborhoods around schools which may be different from the neighborhood conditions of students enrolled in schools. All information contained in this file is in the public domain. Data users are advised to review NCES program documentation and feature class metadata to understand the limitations and appropriate use of these data.
 
 
 
@@ -25,13 +25,13 @@ The dataset from ED Data Express includes comprehensive financial data from the 
 # Research Topic:
 
 
-Education funding and resource allocation may be influenced by disparities in student experiences across different school enviorments. This research explores how factors such as poverty levels, and racial demographics influence the level of which a district is supported and subsized by federal funds.
+Education funding and resource allocation may be influenced by disparities in student experiences across different school environments. This research explores how factors such as poverty levels, and racial demographics influence the level at which a district is supported and subsidized by federal funds.
 
 # Research Problem
 
-Federal funding plays a significant role in addressing disparities in education, particularly for marginalized communities. This research aims to analyze how the allocation of federal funding, particularly Title I funding, correlates with socio-economic disparities, such as racial composition and poverty levels, in school districts. By focusing on the data available—such as Title I revenue, free and reduced-price lunch participation, and student demographics—this research will identify patterns–if any– in funding allocation and how these may relate to disparities across different communities.
+Federal funding plays a significant role in addressing disparities in education, particularly for marginalized communities. This research aims to analyze how the allocation of federal funding, particularly Title I funding, correlates with socioeconomic disparities, such as racial composition and poverty levels, in school districts. By focusing on the data available—such as Title I revenue, free and reduced-price lunch participation, and student demographics—this research will identify patterns–if any– in funding allocation and how these may relate to disparities across different communities.
 
-This study is especially relevent in light of recent political and policy debates surrounding educational equity, school funding cuts, and the rollback of affirmative action programs.As public schools navigate this increase in economic pressures and the shifting of federal priorities,it isparamount to understand whether schools that serve Black and Hispanic communities are being equitably supported—or further marginalized.
+This study is especially relevant in light of recent political and policy debates surrounding educational equity, school funding cuts, and the rollback of affirmative action programs. As public schools navigate this increase in economic pressures and the shifting of federal priorities, it is paramount to understand whether schools that serve Black and Hispanic communities are being equitably supported—or further marginalized.
 
 # Reading My Data:
 
@@ -1336,7 +1336,7 @@ pub_char.head()
 
 
 
-### Adding the fiscal data 
+### Adding The Fiscal Data 
 
 
 ```python
@@ -2795,7 +2795,7 @@ pub_school_fiscal.info()
 
 
 ```python
-# Viewing shape of data
+# Viewing the shape of the data
 pub_school_fiscal.shape
 ```
 
@@ -2808,7 +2808,7 @@ pub_school_fiscal.shape
 
 
 ```python
-# This is how many datapoints there are in total
+# This is how many data points there are in total
 18416* 41
 ```
 
@@ -3125,7 +3125,7 @@ pub_school_na.head()
 
 
 
-I'm removing schools where the state name is 'Bureau of Indian Education' becuase they have Nan values across all finacial areas 
+I'm removing schools where the state name is 'Bureau of Indian Education' because they have Nan values across all financial areas 
 
 
 
@@ -3148,7 +3148,7 @@ pub_school_fiscal_no.shape
 
 
 ```python
-# this is showing me the data type for all of my columns
+# This is showing me the data type for all of my columns
 pub_school_fiscal_no.info(show_counts=True, verbose=True)
 ```
 
@@ -3322,7 +3322,7 @@ missing(pub_school_fiscal_no)
     dtype: float64
 
 
-this(^) is important becuase you need to see how much missing data there is because if its more than like 50% of missing data you will be getting rid of too much to get rid of it. you must find a new way to handle the missing values.
+This(^) is important because you need to see how much missing data there is because if it's more than like 50% of missing data you will be getting rid of too much to get rid of it. you must find a new way to handle the missing values.
 
 
 ```python
@@ -4422,13 +4422,13 @@ pub_school_fiscal_cleaned.head(20)
 
 
 ```python
-#I need to get rid of these rows becase it does not have any data to anaylze.
+#I need to get rid of these rows because it does not have any data to analyze.
 
 num_rows_with_zero = pub_school_fiscal_cleaned['student_teacher_ratio'].eq(0).sum()
 
 num_rows_with_zero
 
-# there are 3317 rows with 0  student teacher ratio. I will get rid of these
+# There are 3317 rows with 0 as the value in the student-teacher ratio column. I will get rid of these
 ```
 
 
@@ -4440,7 +4440,7 @@ num_rows_with_zero
 
 
 ```python
-#getting rid of rows with 0 in the student teacher ratio coulmn
+#getting rid of rows with 0 in the student-teacher ratio column
 pub_school_fiscal_cleaned_2 = pub_school_fiscal_cleaned[pub_school_fiscal_cleaned['student_teacher_ratio'] != 0]
 
 # Print the cleaned data (first 15 rows)
@@ -9229,7 +9229,7 @@ plt.show()
     
 
 
-This box plot is showing that there significant outliers in my data so I need to get rid of them by foculing on the IQR
+This box plot shows that there are significant outliers in my data so I need to get rid of them by foculing on the IQR
 
 
 ```python
