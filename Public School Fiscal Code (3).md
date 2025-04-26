@@ -9225,8 +9225,7 @@ plt.show()
 ```
 
 
-![Box Plot of Fiscal Data](1 output.png) 
-![png](Public%20School%20Fiscal%20Code_files/Public%20School%20Fiscal%20Code_50_0.png)
+![Box Plot of Fiscal Data](https://raw.githubusercontent.com/remideso/remideso.github.io/4a829456b424fea8c30f95a5b6ebb05ec688fe09/1%20output.png)
     
 
 
@@ -11209,7 +11208,7 @@ plt.show()
 
 
     
-![png](Public%20School%20Fiscal%20Code_files/Public%20School%20Fiscal%20Code_80_0.png)
+![Scatter plot of white students vs federal funding](https://raw.githubusercontent.com/remideso/remideso.github.io/499bfe64baecc476fed05f3e2be0b58286fe57de/2%20output.png)
     
 
 
@@ -11234,7 +11233,7 @@ plt.show()
 
 
     
-![png](Public%20School%20Fiscal%20Code_files/Public%20School%20Fiscal%20Code_82_0.png)
+![Scatter plot of American Indian students vs. federal funding](https://raw.githubusercontent.com/remideso/remideso.github.io/499bfe64baecc476fed05f3e2be0b58286fe57de/3%20output.png)
     
 
 
@@ -11259,7 +11258,7 @@ plt.show()
 
 
     
-![png](Public%20School%20Fiscal%20Code_files/Public%20School%20Fiscal%20Code_84_0.png)
+![Scatter plot of American Indian student percentage vs. federal funding](https://raw.githubusercontent.com/remideso/remideso.github.io/538e98f9a28a9fb58bc92bc3f5229c3b488ed7df/4%20output.png)
     
 
 
@@ -11301,7 +11300,7 @@ plt.show()
 
 
     
-![png](Public%20School%20Fiscal%20Code_files/Public%20School%20Fiscal%20Code_87_0.png)
+![Correlation of Racial Categories, Federal Funding & Socio-Economic Indicators](https://raw.githubusercontent.com/remideso/remideso.github.io/538e98f9a28a9fb58bc92bc3f5229c3b488ed7df/5%20output.png)
     
 
 
@@ -11808,7 +11807,7 @@ plt.show()
 
 
     
-![png](Public%20School%20Fiscal%20Code_files/Public%20School%20Fiscal%20Code_108_0.png)
+![Confusion_Matrix](https://raw.githubusercontent.com/remideso/remideso.github.io/538e98f9a28a9fb58bc92bc3f5229c3b488ed7df/6%20output.png)
     
 
 
