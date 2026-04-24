@@ -46,6 +46,9 @@ These results suggest that redevelopment is closely tied to rising housing costs
 
 [View Full Statistical Analysis Notebook](BeltLineCapstone.ipynb)
 
+### Machine Learning & Predictive Modeling
+[View Machine Learning Notebook](BeltLine_Machine_Learning.ipynb)
+
 ---
 
 ## Federal Education Funding & Racial Disparities in Public Schools
