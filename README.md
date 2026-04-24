@@ -1,5 +1,20 @@
 # Remi Des-Ogugua
 
+Data Analyst and Graduate Student in Applied Data Science at Howard University with a focus on using data to understand inequality, education systems, and urban change. I have experience in data cleaning, statistical analysis, and building predictive models using Python, SQL, and visualization tools such as Power BI and Tableau. I am interested in applying data-driven insights to support equitable decision-making and real-world impact.
+
+---
+## Contact
+
+- **Email:** [rdesogugua@email.com](mailto:your-rdesogugua@email.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/remi-des-ogugua-b6a71020a/](https://www.linkedin.com/in/remi-des-ogugua-b6a71020a/)  
+
+---
+
+## Resume
+
+- [View My Digital Resume](2025_Digital_Resume.html)
+
+
 Link to my Digital Resume: [2025 Resume](2025_Digital_Resume.html)
 
 
