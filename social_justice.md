@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Computational Social Justice"
+permalink: /social_justice/
+---
+
 # Computational Social Justice: The Beltline Effect
 
 ## The Problem: Displacement in Historically Black Communities
