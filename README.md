@@ -1,8 +1,9 @@
 # Remi Des-Ogugua
 
-Data Analyst and Graduate Student in Applied Data Science at Howard University with a focus on using data to understand inequality, education systems, and urban change. I have experience in data cleaning, statistical analysis, and building predictive models using Python, SQL, and visualization tools such as Power BI and Tableau. I am interested in applying data-driven insights to support equitable decision-making and real-world impact.
+Data Analyst and graduate student in Applied Data Science at Howard University with a focus on using data to tell stories about inequality, space, and community change. My work is rooted in understanding how systems like education and urban development shape outcomes, particularly for Black communities. I use statistical analysis, spatial data, and visualization to connect data to lived experience and highlight patterns that are often overlooked.
 
 ---
+
 ## Contact
 
 - **Email:** [rdesogugua@email.com](mailto:your-rdesogugua@email.com)  
@@ -14,19 +15,40 @@ Data Analyst and Graduate Student in Applied Data Science at Howard University w
 
 - [View My Full CV](resume.md)
 
+---
 
 # Research Projects
 
+## The Beltline Effect: Race, Space, and Neighborhood Transformation in Atlanta
+
+### Overview
+
+This capstone project examines how the Atlanta BeltLine has influenced housing costs and racial composition across neighborhoods over time. Using census tract data from 2000, 2010, and 2020, the analysis focuses on changes in median income, rent, and demographic patterns in relation to proximity to the BeltLine.
+
+### Key Findings
+
+- Median income increased by over **145%** in neighborhoods within 0.5 miles of the BeltLine  
+- Median rent more than doubled in these same areas  
+- The Black population declined by approximately **27 percentage points**  
+- The White population increased significantly in BeltLine-adjacent neighborhoods  
+
+These results suggest that redevelopment is closely tied to rising housing costs and demographic change, particularly in historically Black communities.
+
+### Interactive StoryMap
+
+[View the Data Story](https://remideso.github.io/remideso.github.io/story/)
+
+---
+
 ## Federal Education Funding & Racial Disparities in Public Schools
 
-### Project Overview
+### Overview
 
-This project analyzes how race and poverty affect federal education funding across over 11,000 public school districts across the United States. The study investigates whether schools serving predominantly minority students are more likely to rely on Title I funding, and how funding disparities align with race and poverty. It includes both exploratory analysis and predictive modeling to better understand how federal support is distributed across districts and which student groups are most affected by shifts in that support.
+This project analyzes how race and poverty affect federal education funding across over 11,000 public school districts in the United States. The study investigates whether schools serving predominantly minority students are more likely to rely on Title I funding and how funding disparities align with socioeconomic conditions.
 
 ### Access Code and Executive Summary
 
-Access the Code for the Public School Fiscal Analysis: [Public School Fiscal Code](https://github.com/remideso/remideso.github.io/blob/e10bfb9d315aac5c7b14571ed144f4f15064af86/Public%20School%20Fiscal%20Code%20(3).md)  
-
-Executive Summary: [Executive Summary](Executive_Summary.html)  
+- [Public School Fiscal Code](https://github.com/remideso/remideso.github.io/blob/e10bfb9d315aac5c7b14571ed144f4f15064af86/Public%20School%20Fiscal%20Code%20(3).md)  
+- [Executive Summary](Executive_Summary.html)  
 
 ---
