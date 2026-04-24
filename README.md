@@ -42,6 +42,10 @@ These results suggest that redevelopment is closely tied to rising housing costs
 
 [Read the Full Computational Social Justice Analysis](https://remideso.github.io/social_justice/)
 
+### Statistical Analysis & Data Preparation
+
+[View Full Statistical Analysis Notebook](BeltLineCapstone.ipynb)
+
 ---
 
 ## Federal Education Funding & Racial Disparities in Public Schools
