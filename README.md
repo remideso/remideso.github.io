@@ -12,7 +12,7 @@ Data Analyst and Graduate Student in Applied Data Science at Howard University w
 
 ## Resume
 
-- [View My Digital Resume](2025_Digital_Resume.html)
+- [View My Digital Resume](resume.md)
 
 
 Link to my Digital Resume: [2025 Resume](2025_Digital_Resume.html)
