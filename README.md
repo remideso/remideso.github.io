@@ -36,7 +36,7 @@ These results suggest that redevelopment is closely tied to rising housing costs
 
 ### Interactive StoryMap
 
-[View the Data Story](https://remideso.github.io/remideso.github.io/story/)
+[View the Data Story](https://remideso.github.io/story.html)
 
 ---
 
