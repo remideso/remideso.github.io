@@ -12,7 +12,7 @@ Data Analyst and Graduate Student in Applied Data Science at Howard University w
 
 ## Resume
 
-- [View My Full CV](resume)
+- [View My Full CV](resume.md)
 
 
 # Research Projects
