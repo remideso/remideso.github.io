@@ -10,9 +10,9 @@ permalink: /social_justice/
 
 Atlanta has long been recognized as the “Black Mecca,” a city where Black communities have built culture, wealth, and identity across generations. However, this identity is increasingly under pressure as large-scale redevelopment reshapes the city. This project focuses on historically Black neighborhoods located near the Atlanta BeltLine, a major urban redevelopment initiative that has transformed the physical, economic, and social landscape of the city.
 
-The central injustice explored in this analysis is **gentrification-driven displacement**, where rising housing costs and redevelopment disproportionately impact Black and low-income communities. While projects like the BeltLine are often framed as economic revitalization—bringing green space, infrastructure, and new investment—they frequently benefit higher-income, often White residents, while placing pressure on long-term Black residents to relocate.
+The central injustice explored in this analysis is gentrification-driven displacement, where rising housing costs and redevelopment disproportionately impact Black and low-income communities. While projects like the BeltLine are often framed as economic revitalization—bringing green space, infrastructure, and new investment—they frequently benefit higher-income, often White residents, while placing pressure on long-term Black residents to relocate.
 
-This is not simply a story about neighborhood change. It is a story about **who has the power to remain in place** and who is pushed out as cities evolve.
+This is not simply a story about neighborhood change. It is a story about who has the power to remain in place and who is pushed out as cities evolve.
 
 ---
 
@@ -20,7 +20,7 @@ This is not simply a story about neighborhood change. It is a story about **who 
 
 The patterns observed in this project are part of a much longer history of racialized urban development in the United States, particularly in cities like Atlanta.
 
-W.E.B. Du Bois’s early sociological work provides a critical foundation for understanding these dynamics. In *The Philadelphia Negro* (1899) and later through the Atlanta University Studies, Du Bois examined how structural racism shaped where Black communities could live, work, and build wealth. His research emphasized that inequality was not due to individual shortcomings, but rather the result of systemic exclusion, segregation, and economic barriers. In his 1903 Atlanta University Study, Du Bois documented how Black neighborhoods were often confined to areas with fewer resources and limited investment—patterns that would shape urban development for generations.
+W.E.B. Du Bois’s early sociological work provides a critical foundation for understanding these dynamics. In *The Philadelphia Negro* (1899) and later through the Atlanta University Studies, Du Bois examined how structural racism shaped where Black communities could live, work, and build wealth. His research emphasized that inequality was not due to individual shortcomings but rather to systemic exclusion, segregation, and economic barriers. In his 1903 Atlanta University Study, Du Bois documented how Black neighborhoods were often confined to areas with fewer resources and limited investment—patterns that would shape urban development for generations.
 
 These historical conditions are directly connected to modern redevelopment. Neighborhoods that are now targeted for investment were often the same areas that were historically disinvested due to segregation and discriminatory policies. According to the Urban Institute (2020), gentrification disproportionately occurs in formerly low-income, predominantly Black neighborhoods, where property values were suppressed and later become attractive for redevelopment.
 
